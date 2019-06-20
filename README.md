@@ -1,3 +1,8 @@
+OS Used: Mac
+Python Version Used: Python 3
+(Some lines of code may change depending on the OS and the Python version that you use.)
+
+
 PROJECT - 1
 
 This Python Program will enable you to count the number of words in a web page, to print out the top 'n' most frequently used words, and also to find the number of times a particular word appears on the page.
@@ -16,3 +21,8 @@ Why?
 PROJECT - 2
 
 This is a very basic Python Program to understand the concept of NLP (Natural Language Processing) using a similar set of Codes as in Project-1. Here, we find out what a webpage is talking about, by counting the 'n' most frequently used words in it. Practically, this will not always give us a 100% accurate answer, but we may at least get the jist of the web page's content. This project contains 2 Methods, and a little more detail, compared to the previous one.
+
+
+PROJECT - 3
+
+This is a Python Program that will help you understand the basics of Sentiment Analysis. It is very simple, and requires only one main library. Through this Program, we can determine whether a statement is a positive one, or a negative one.
