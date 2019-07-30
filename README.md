@@ -3,6 +3,8 @@ OS Used: Mac.
 
 Python Version Used: Python 3.
 
+Environment: Jupyter Notebooks
+
 (Some lines of code may change depending on the OS and the Python version that you use.)
 
 
@@ -29,3 +31,22 @@ This is a very basic Python Program to understand the concept of NLP (Natural La
 PROJECT - 3
 
 This is a Python Program that will help you understand the basics of Sentiment Analysis. It is very simple, and requires only one main library. Through this Program, we can determine whether a statement is a positive one, or a negative one.
+
+PROJECT - 4
+
+This is a Python Program in which you solve a Mathematical Problem related to Distance.From our high school math, we know that, s=ut+(1/2)at*2, where,
+s = Distance
+u = Initial Velocity (Unit: m/s)
+a = Acceleration (Unit: m/s^2)
+t = Time (Unit: Second)
+So, we input 'u', 'a', and 't' from a user, to find 's'.
+
+
+PROJECT - 5 (a)
+
+This is a Python Program that converts Speech to Text. It records audio, then turns it into text form and displays it for the user to read. It works in languages other than English as well.
+
+
+PROJECT - 5 (b)
+
+This is Python Program that converts Text to Speech. It inputs text from a user, then converts it into audio and plays it. 
